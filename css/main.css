@@ -1,0 +1,50 @@
+body {
+  background-color: beige;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: blue;
+}
+li {
+    float: left;
+}
+li a {
+  display: block;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+}
+li a:hover {
+  background-color: purple;
+  color: white;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+h2 {
+    font-size: 25;
+}
+
+#stuff {
+    font-family: "Comic Sans MS";
+}
+
+h3 {
+    font-size: 25;
+}
+
+#main {
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 21px;
+}

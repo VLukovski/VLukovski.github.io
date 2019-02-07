@@ -1,0 +1,13 @@
+@keyframes background {
+    0% {background-color: lime;}
+    33% {background-color: violet;}
+    66% {background-color: navajowhite}
+    100% {background-color: lime;}
+}
+
+body {
+    background-color: lime;
+    animation-name: background;
+    animation-duration: 7s;
+    animation-iteration-count: infinite;
+}
